@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nuestro Bar</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="titulo">(%1$.2f,%2.2f)</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
